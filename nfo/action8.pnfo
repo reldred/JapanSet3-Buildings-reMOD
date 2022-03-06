@@ -1,0 +1,20 @@
+   24 * 9	 09 9D 04 \7= 00 00 00 00 02
+
+//OPENTTD TITLE
+   25 * 286	 08 07 "RE" 34 00 "Japan Set3: Buildings reMOD" 00
+     "\94Japan \8BSet\8A\943: Buildings \95 - v3.1 - January 2016\98\n"
+       "Drawn by \95Sanchimaru, Zimmlock, and others.\98\n"
+        "Includes graphics from the \95Total Town Replacement Set\98 by \95Zimmlock, George, Tyconnez.com:munity, Oz, Red*Star, Purno, "
+           "and Pikkabird\98\n"
+        "Coded by \95Aegir and Dandan. More mods by reldred(aegir)\n" 00
+
+   26 * 6	 09 9A 01 \7= FF 01
+
+//TTDPATCH TITLE
+   27 * 320	 08 07 "RE" 34 00 "Japan Set3: Buildings reMOD" 00
+     "\94Japan \8BSet\8A\943: Buildings \95 - v3.1 - January 2016\98\n"
+       "Drawn by \95Sanchimaru, Zimmlock, and others.\98\n"
+        "Includes graphics from the \95Total Town Replacement Set\98 by \95Zimmlock, George, Tyconnez.com:munity, Oz, Red*Star, Purno, "
+           "and Pikkabird\98\n"
+        "Coded by \95Aegir and Dandan. More mods by reldred(aegir)\n" 
+        "\8FSee readme for parameter settings" 00

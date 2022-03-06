@@ -1,0 +1,89 @@
+   70 * 36	 04 07 82 01 00 DC "Wolkenkratzer-Blokadeschrein" 00
+   86 * 14	 04 07 82 01 01 DC "Convini" 00
+  117 * 19	 04 07 82 01 02 DC "Kleine Häuser" 00
+  168 * 21	 04 07 82 01 03 DC "Kakihara Haus" 00
+  199 * 28	 04 07 82 01 04 DC "Block von kleinen Häusern" 00
+  322 * 21	 04 07 82 01 05 DC "Naganuma Haus" 00
+  366 * 22	 04 07 82 01 06 DC "Nishikawa Haus" 00
+  396 * 19	 04 07 82 01 07 DC "Oosawa Haus" 00
+  440 * 24	 04 07 82 01 08 DC "Shotengai (Geschäfte)" 00
+  625 * 18	 04 07 82 01 09 DC "Kleine Geschäfte" 00
+  665 * 33	 04 07 82 01 0A DC "Yoshinoya Sushi Restaurant" 00
+  687 * 25	 04 07 82 01 0B DC "Takaoka Apartmenthaus" 00
+  716 * 27	 04 07 82 01 0C DC "Yoshinoya Restaurant" 00
+  745 * 29	 04 07 82 01 0D DC "Tatsunkuchi Badehaus" 00
+  768 * 29	 04 07 82 01 0E DC "Aoyama Bürogebäude" 00
+  796 * 23	 04 07 82 01 0F DC "Unternehmenshauptsitz" 00
+  818 * 32	 04 07 82 01 10 DC "Haraku Apartmentgebäude" 00
+  853 * 19	 04 07 82 01 11 DC "Hirata Wohnungen" 00
+  923 * 26	 04 07 82 01 12 DC "Murakami Apartmenthaus" 00
+ 1027 * 32	 04 07 82 01 13 DC "Pachinko Parlour (Kasino)" 00
+ 1060 * 20	 04 07 82 01 14 DC "Sato Gebäude" 00
+ 1082 * 31	 04 07 82 01 15 DC "Takemaru Einkaufszentrum" 00
+ 1115 * 22	 04 07 82 01 16 DC "Toyo-View Turm" 00
+ 1178 * 28	 04 07 82 01 17 DC "Tokyo Apartmentblock" 00
+ 1216 * 21	 04 07 82 01 18 DC "Tsuno Gebäude" 00
+ 1259 * 31	 04 07 82 01 19 DC "Tsuzumi Electronics Mall" 00
+ 1300 * 30	 04 07 82 01 1A DC "Yamada Electronics Mall" 00
+ 1323 * 32	 04 07 82 01 1B DC "Yamashiro Bürogebäude" 00
+ 1356 * 23	 04 07 82 01 1C DC "Baseball Stadium" 00
+ 1423 * 21	 04 07 82 01 1D DC "Buddhistischer Tempel" 00
+ 1575 * 15	 04 07 82 01 1E DC "Daibutsu" 00
+ 1727 * 12	 04 07 82 01 1F DC "Shiro" 00
+ 1891 * 13	 04 07 82 01 20 DC "Shrine" 00
+ 1911 * 17	 04 07 82 01 21 DC "Stadthaus" 00
+ 1924 * 24	 04 07 82 01 22 DC "Luxus-Apartments" 00
+ 1938 * 31	 04 07 82 01 23 DC "Großes Apartmentgebäude" 00
+ 1978 * 16	 04 07 82 01 24 DC "Alte Villa" 00
+ 1991 * 32	 04 07 82 01 25 DC "Einfaches Apartmentgebäude" 00
+ 2034 * 26	 04 07 82 01 26 DC "Altes Bürogebäude" 00
+ 2060 * 13	 04 07 82 01 27 DC "Gefängnis" 00
+ 2146 * 25	 04 07 82 01 28 DC "Kleiner Büroturm" 00
+ 2176 * 24	 04 07 82 01 29 DC "Hoher Büroblock" 00
+ 2199 * 13	 04 07 82 01 2A DC "Kino" 00
+ 2223 * 28	 04 07 82 01 2B DC "Kleiner Apartmentturm" 00
+ 2245 * 12	 04 07 82 01 2C DC "Hotel" 00
+ 2283 * 28	 04 07 82 01 2D DC "Osaka Apartmentblock" 00
+ 2323 * 17	 04 07 82 01 2E DC "T-Gebäude" 00
+ 2349 * 17	 04 07 82 01 2F DC "Bankenturm" 00
+ 2373 * 26	 04 07 82 01 30 DC "Apartmenthochhaus" 00
+ 2400 * 32	 04 07 82 01 31 DC "Modernes Apartmentgebäude" 00
+ 2423 * 31	 04 07 82 01 32 DC "Kleines Apartmentgebäude" 00
+ 2447 * 19	 04 07 82 01 33 DC "Feuerwehr" 00
+ 2552 * 27	 04 07 82 01 34 DC "Hohes Bürogebäude" 00
+ 2568 * 25	 04 07 82 01 35 DC "Multimedia Büros" 00
+ 2587 * 30	 04 07 82 01 36 DC "Hohes Apartmentgebäude" 00
+ 2615 * 22	 04 07 82 01 37 DC "Bürogebäude" 00
+ 2719 * 22	 04 07 82 01 38 DC "Versicherungsturm" 00
+ 2743 * 30	 04 07 82 01 39 DC "Apartmenthaus mit Terrasse" 00
+ 2766 * 32	 04 07 82 01 3A DC "Kleines Geschäftsgebäude" 00
+ 2787 * 26	 04 07 82 01 3B DC "Mittelhoher Büroturm" 00
+ 2810 * 17	 04 07 82 01 3C DC "Y-Gebäude" 00
+ 2834 * 25	 04 07 82 01 3D DC "World Trade Center" 00
+ 2907 * 17	 04 07 82 01 3E DC "O-Gebäude" 00
+ 2928 * 25	 04 07 82 01 3F DC "Apartmentgebäude" 00
+ 2986 * 25	 04 07 82 01 40 DC "Großer Büroturm" 00
+ 3005 * 19	 04 07 82 01 41 DC "Büroturm" 00
+ 3031 * 26	 04 07 82 01 42 DC "Moderner Büroturm" 00
+ 3055 * 19	 04 07 82 01 43 DC "Büroturm" 00
+ 3076 * 25	 04 07 82 01 44 DC "Kleiner Büroturm" 00
+ 3094 * 33	 04 07 82 01 45 DC "Luxus-Apartmenthochhaus" 00
+ 3117 * 17	 04 07 82 01 46 DC "X-Gebäude" 00
+ 3139 * 21	 04 07 82 01 47 DC "Polizeiwache" 00
+ 3177 * 24	 04 07 82 01 48 DC "Kleine Tankstelle" 00
+ 3200 * 18	 04 07 82 01 49 DC "Tankstelle" 00
+ 3267 * 15	 04 07 82 01 4A DC "Krankenhaus" 00
+ 3354 * 15	 04 07 82 01 4B DC "Brunnen" 00
+ 3362 * 23	 04 07 82 01 4C DC "Park mit Brunnen" 00
+ 3370 * 25	 04 07 82 01 4D DC "Park" 00
+ 3378 * 13	 04 07 82 01 4E DC "Statue" 00
+ 3386 * 23	 04 07 82 01 4F DC "Hölzernes Bauernhaus" 00
+ 3411 * 19	 04 07 82 01 50 DC "Hölzernes Haus" 00
+ 3461 * 25	 04 07 82 01 51 DC "Großes Hölzernes Haus" 00
+ 3542 * 29	 04 07 82 01 52 DC "Großes Hölzernes Bauernhaus" 00
+ 3592 * 28	 04 07 82 01 53 DC "Zwei hölzerne Stadthäuser" 00
+ 3644 * 34	 04 07 82 01 54 DC "Zwei hölzerne Stadthäuser mit Baum" 00
+ 3782 * 35	 04 07 82 01 55 DC "Hölzerne Stadthäuser und Geschäfte" 00
+ 3807 * 25	 04 07 82 01 56 DC "Hölzerne Stadthäuser" 00
+ 3857 * 35	 04 07 82 01 57 DC "Hölzerne Stadthäuser mit Baum" 00
+ 3882 * 41	 04 07 82 01 58 DC "Hölzerne Stadthäuser und Geschäfte" 00

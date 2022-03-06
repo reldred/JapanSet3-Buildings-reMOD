@@ -1,0 +1,20 @@
+//PARAMETER NAMES AND DESCRIPTIONS
+   13 * 252	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 01 "Town size threshold" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Certain buildings (like large office buildings) can only appear in towns above this size. Independently of this setting, some buildings (like skyscrapers) only appear in towns classified as 'cities'." 00
+								00 00 00 00
+
+   14 * 396	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 01 "Enable 'Skyscraper prohibition shrine'" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "With this option enabled, every city will have a unique small building called the 'Skyscraper prohibition shrine'. While it stands, no skyscrapers will be constructed there. It can be demolished by the player at no cost and will not be rebuilt. The shrine is marked by a large red 'S' visible when buildings are transparent." 00
+								00 00 00 00
+
+   15 * 162	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 01 "Landmarks" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Landmarks are buildings that are particularly recognizable. They include most skyscrapers and some religious buildings." 00
+								00 00 00 00
+
+//PARAMETER VALUE TEXTS
+
+   19 * 132	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 01 "off" 00 "T" \d1 01 "5,000 inhabitants" 00 "T" \d2 01 "10,000 inhabitants" 00 "T" \d3 01 "15,000 inhabitants" 00 "T" \d4 01 "20,000 inhabitants" 00
+      	     	 00 00 00 00 00
+
+   20 * 140	 14 "C" "INFO" "C" "PARA" "C" \d2 "C" "VALU" "T" \d0 01 "can appear multiple times." 00 "T" \d1 01 "appear at most once per town." 00 "T" \d2 01 "appear at most once on the entire map." 00
+      	     	 00 00 00 00 00

@@ -1,0 +1,20 @@
+//PARAMETER NAMES AND DESCRIPTIONS
+   13 * 252	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 02 "Stadtgrößenschwellenwert" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Bestimte Gebäude (wie etwa große Bürogebäude) erscheinen nur in Städten, deren Einwohnerzahl höher ist als dieser Schwellenwert. Unabhängig hiervon erscheinen manche Gebäude (etwa Wolkenkratzer) nur in Städten, die den Status 'Großstadt' haben." 00
+								00 00 00 00
+
+   14 * 396	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 02 "Verwende Wolkenkratzer-Blokadeschrein" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Wenn diese Option eingeschaltet ist, hat jede Großstadt ein kleinen Gebäude, genannt der 'Wolkenkratzer-Blokadeschrein'. So lange es steht, werden in der Stadt keine Wolkenkratzer gebaut. Es kann vom Spieler kostenlos abgerissen werden. Der Schrein ist durch ein großes rotes 'S' markiert, das sichtbar wird, wenn die Gebäude als transparent angezeigt werden. " 00
+								00 00 00 00
+
+   15 * 162	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 02 "Wahrzeichen" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Wahrzeichen sind besonders markante Gebäude. Die meisten Wolkenkratzer und einige religiöse Bauten sind Wahrzeichen." 00
+								00 00 00 00
+
+//PARAMETER VALUE TEXTS
+
+   19 * 132	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 02 "aus" 00 "T" \d1 02 "5.000 Einwohner" 00 "T" \d2 02 "10.000 Einwohner" 00 "T" \d3 02 "15.000 Einwohner" 00 "T" \d4 02 "20.000 Einwohner" 00
+      	     	 00 00 00 00 00
+
+   20 * 140	 14 "C" "INFO" "C" "PARA" "C" \d2 "C" "VALU" "T" \d0 02 "können mehrfach erscheinen." 00 "T" \d1 02 "erscheinen höchstens einmal pro Stadt." 00 "T" \d2 02 "erscheinen auf der ganzen Karte höchstens einmal." 00
+      	     	 00 00 00 00 00

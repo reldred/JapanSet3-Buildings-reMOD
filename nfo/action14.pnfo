@@ -1,0 +1,57 @@
+//check TTDPatch or OpenTTD
+    1 * 9	 09 9D 04 \7= 01 00 00 00 03
+    2 * 9	 09 8B 04 \7> \d2602333 01
+    3 * 10	 0B 03 7F 00 "r2333" 00
+    4 * 6	 09 9A 01 \7= FF 04
+
+//check OpenTTD version
+    5 * 9	 09 A1 04 \7= FF FF FF FF 02
+    6 * 9	 09 A1 04 \7< \w20959 00 11 01
+    7 * 6	 09 9A 01 \7= FF 01
+    8 * 11	 0B 03 7F 06 "r20960" 00
+
+//VERSION NUMBER
+    9 * 19	 14 "C" "INFO" "B" "VRSN" \w4 \d310 00 00
+
+//MINIMAL COMPATIBLE VERSION
+   10 * 19	 14 "C" "INFO" "B" "MINV" \w4 \d300 00 00
+
+//NUMBER OF PARAMETERS
+   12 * 16	 14 "C" "INFO" "B" "NPAR" \w1 03 00 00
+
+//PARAMETER NAMES AND DESCRIPTIONS
+   13 * 252	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 7F "Town size threshold" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Certain buildings (like large office buildings) can only appear in towns above this size. Independently of this setting, some buildings (like skyscrapers) only appear in towns classified as 'cities'." 00
+								00 00 00 00
+
+   14 * 396	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 7F "Enable 'Skyscraper prohibition shrine'" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "With this option enabled, every city will have a unique small building called the 'Skyscraper prohibition shrine'. While it stands, no skyscrapers will be constructed there. It can be demolished by the player at no cost and will not be rebuilt. The shrine is marked by a large red 'S' visible when buildings are transparent." 00
+								00 00 00 00
+
+   15 * 162	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 7F "Landmarks" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Landmarks are buildings that are particularly recognizable. They include most skyscrapers and some religious buildings." 00
+								00 00 00 00
+
+//TYPES OF PARAMETERS
+
+   16 * 28	 14 "C" "INFO" "C" "PARA" "C" \d1 "B" "TYPE" \w1 1 00 00 00 00
+
+
+//PARAMETER LIMITS
+
+   17 * 35	 14 "C" "INFO" "C" "PARA" "C" \d0 "B" "LIMI" \w8 \d0 \d4 00 00 00 00 
+   18 * 35	 14 "C" "INFO" "C" "PARA" "C" \d2 "B" "LIMI" \w8 \d0 \d2 00 00 00 00 
+
+//PARAMETER VALUE TEXTS
+
+   19 * 132	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 7F "off" 00 "T" \d1 7F "5,000 inhabitants" 00 "T" \d2 7F "10,000 inhabitants" 00 "T" \d3 7F "15,000 inhabitants" 00 "T" \d4 7F "20,000 inhabitants" 00
+      	     	 00 00 00 00 00
+
+   20 * 140	 14 "C" "INFO" "C" "PARA" "C" \d2 "C" "VALU" "T" \d0 7F "can appear multiple times." 00 "T" \d1 7F "appear at most once per town." 00 "T" \d2 7F "appear at most once on the entire map." 00
+      	     	 00 00 00 00 00
+
+
+//DEFAULT VALUES FOR PARAMETERS
+   21 * 31	 14 "C" "INFO" "C" "PARA" "C" \d0 "B" "DFLT" \w4 \d2 00 00 00 00
+   22 * 31	 14 "C" "INFO" "C" "PARA" "C" \d1 "B" "DFLT" \w4 \d0 00 00 00 00
+   23 * 31	 14 "C" "INFO" "C" "PARA" "C" \d2 "B" "DFLT" \w4 \d1 00 00 00 00
